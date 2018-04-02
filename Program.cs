@@ -6,7 +6,7 @@ namespace excelToCSV
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Excel to .csv file converter!");
+            Console.WriteLine("Hello Excel to .csv file converter.");
             Console.WriteLine("test-branch statement only");
         }
     }
